@@ -1,0 +1,2 @@
+# shareonly
+public lib
